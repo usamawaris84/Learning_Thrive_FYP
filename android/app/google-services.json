@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4720217122",
+    "project_id": "learningthrive-e81c6",
+    "storage_bucket": "learningthrive-e81c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4720217122:android:ebeb3a438958cf49630e7b",
+        "android_client_info": {
+          "package_name": "com.example.learning_thrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4720217122-k5u0643b6jcl7no886l6gi0fdbhu5uus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learning_thrive",
+            "certificate_hash": "c48b33b10d489db0eae5379af2b83f6ff2cd2302"
+          }
+        },
+        {
+          "client_id": "4720217122-5pjjql7umb5m4alii36g1l8hujaib5hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8L4f2aJvGQt0F1xD92x5k75s0XXAq554"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4720217122-5pjjql7umb5m4alii36g1l8hujaib5hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
